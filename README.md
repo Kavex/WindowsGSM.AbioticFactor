@@ -10,7 +10,7 @@ https://steamdb.info/app/1690800/info/
 
 # Installation
 
-1. Download the latest release
+1. Download the latest release [WindowsGSM.AbioticFactor](https://github.com/Kavex/WindowsGSM.AbioticFactor/archive/refs/heads/main.zip)
 2. Move **AbioticFactor.cs** folder to plugins folder
 3. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
 
