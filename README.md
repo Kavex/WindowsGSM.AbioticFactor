@@ -18,8 +18,10 @@ https://steamdb.info/app/1690800/info/
 
 1. Change the server password and server name in the Server Start Param
 2. Start the game and connect to the server
+3. For more info: https://github.com/DFJacob/AbioticFactorDedicatedServer/wiki/Guide-%E2%80%90-Quickstart
 
 PORT=7777
-
 QueryPort=27015
+
+Admin: \(Server Install)\AbioticFactor\Saved\SaveGames\Server\Admin.ini. Edit this file and add your steamid under [Moderators], eg: Moderator=76561198053306820
 
